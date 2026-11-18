@@ -54,6 +54,6 @@ Submit your site address on BruinLearn. It looks like `https://YOUR-USERNAME.git
 
 - **The site looks like plain text with no styling.** The `baseurl` in `_config.yml` does not match your repository name. Check spelling, the leading slash, and capital letters.
 - **You see a 404 page.** Pages may not be turned on, or it may still be building. Wait two minutes, then recheck Part 2.
-- **Your edits do not show up.** Wait a minute or two and do a hard refresh (Ctrl+Shift+R on Windows, Cmd+Shift+R on Mac). You can watch the build under the repository's **Actions** tab: a green check means it worked and a red X means it failed.
+- **Your edits or new posts do not show up.** Wait a minute or two and do a hard refresh (Ctrl+Shift+R on Windows, Cmd+Shift+R on Mac). You can watch the build under the repository's **Actions** tab: a green check means it worked and a red X means it failed.
 - **Pages CMS cannot see your repository.** Make sure you installed the Pages CMS app on that repository, and that you are signed in with the GitHub account that has access to it.
 - **Pages CMS is not working at all.** You can edit any file directly on GitHub instead: open the file, click the pencil icon, and commit. Entries live in the `_artifacts` and `_analyses` folders.
