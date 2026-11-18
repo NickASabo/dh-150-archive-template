@@ -1,11 +1,11 @@
-# DH 150 final project: your archive site
+# DH 150 final project template: Archive Site
 
-This repository is the starting point for your final project website. You will write your artifact notes, AI analyses, and paper in an online editor, and the site updates itself. You do not need to install anything or know how to code.
+This repository is a starting point for your final project website. You will write your artifact notes, AI analyses, and paper in an online editor, and the site updates itself. You do not need to install anything or know how to code.
 
 ## Part 1. Make your own copy (one team member does this)
 
 1. Make a free GitHub account at github.com/signup if you do not have one. The username becomes part of your site's web address, so choose one you are comfortable making public.
-2. Open the template link from your instructor. Click the green **Use this template** button, then **Create a new repository**.
+2. Open this page. Click the green **Use this template** button, then **Create a new repository**.
 3. Under **Owner**, choose your own account. Under **Repository name**, type a short lowercase name with no spaces, for example `dh150-red-team`. Choose **Public**, then click **Create repository**.
 
 ## Part 2. Turn on the website
@@ -41,7 +41,7 @@ Visit `/checklist/` on your site (add it to your site address). It counts your a
 
 ## Submit
 
-Submit your site address on BruinLearn. It looks like `https://YOUR-USERNAME.github.io/YOUR-REPOSITORY-NAME/`. Open it in a private browser window first to make sure it works for someone who is not logged in.
+When you submit your site address on BruinLearn, it'll look like `https://YOUR-USERNAME.github.io/YOUR-REPOSITORY-NAME/`. Open it in a private browser window first to make sure it works for someone who is not logged in.
 
 ## Things to remember
 
